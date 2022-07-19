@@ -1,0 +1,27 @@
+body {
+    background-color: #E1BFB7;
+    font-family: 'Merriweather', serif;
+    margin: 10px 10px 30px 50px;
+}
+
+.about-me {
+    font-family: 'Charmonman', cursive;
+    font-weight: bolder;
+    text-transform: capitalize;
+}
+
+img {
+        width: 360px;
+        margin-bottom: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: #8A3505;
+    font-weight: bolder;
+}
+
+.work,
+.skills {
+    line-height: normal;
+}
